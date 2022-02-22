@@ -2,7 +2,7 @@
     "name": "codeavenge",
     "displayName": "codeavenge",
     "description": "Simple dark theme for linux user (pop os/ubuntu/mint etc)",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "publisher": "Anindra",
     "repository": {
         "type": "git",

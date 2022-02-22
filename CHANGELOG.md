@@ -18,7 +18,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 - Merge commit '5059ee63e8d4d98ab73e5e1bd8ff6dd6ad132b4c'
 - update version to 0.0.1
 
-## 0.0.3
+## 0.0.4
 - update readme
 - update change log
 - add market link to readme
