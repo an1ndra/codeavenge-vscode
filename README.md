@@ -5,5 +5,5 @@ A dark vscode theme for linux user (Pop os/Ubuntu/Linux Mint etc)
 ```shell
 ext install Anindra.codeavenge
 ```
-2. Open the command palette (`Ctrl/Cmd + Shift + P`) and search for `Preferences: Product Icon Theme`
+2. Open the command palette (`Ctrl/Cmd + Shift + P`) and search for `Preferences: Color Theme`
 3. Select `Fluent Icons`
