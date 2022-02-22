@@ -3,6 +3,19 @@
     "displayName": "codeavenge",
     "description": "Simple dark theme for linux user (pop os/ubuntu/mint etc)",
     "version": "0.0.1",
+    "publisher": "Anindra",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/meanindra/codeavenge-vscode/tree/master"
+    },
+    "keywords":[
+        "theme",
+        "dark-theme",
+        "codeavenge",
+        "vscode",
+        "linux",
+        "pop os"
+    ],
     "engines": {
         "vscode": "^1.64.0"
     },
