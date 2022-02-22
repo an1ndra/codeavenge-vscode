@@ -1,0 +1,21 @@
+{
+    "name": "codeavenge",
+    "displayName": "codeavenge",
+    "description": "Simple dark theme for linux user (pop os/ubuntu/mint etc)",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.64.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "CodeAvenge",
+                "uiTheme": "vs-dark",
+                "path": "./themes/CodeAvenge-color-theme.json"
+            }
+        ]
+    }
+}
