@@ -2,7 +2,7 @@
     "name": "puredark",
     "displayName": "Pure Dark",
     "description": "I universal Pure Dark theme for VSCode dekstop, vscodium, github.dev, vscode.dev",
-    "version": "0.8.0",
+    "version": "0.9.0",
     "publisher": "Anindra",
     "repository": {
         "type": "git",
