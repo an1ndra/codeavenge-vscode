@@ -31,9 +31,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "CodeAvenge",
+                "label": "Pure Dark",
                 "uiTheme": "vs-dark",
-                "path": "./themes/CodeAvenge-color-theme.json"
+                "path": "./themes/puredark-color-theme.json"
             }
         ]
     }
