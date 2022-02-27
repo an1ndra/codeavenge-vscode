@@ -3,7 +3,7 @@
     "displayName": "Dark Night",
     "description": "I universal Dark Night theme for VSCode dekstop, vscodium, github.dev, vscode.dev",
     "version": "0.2.0",
-    "publisher": "codeavenge",
+    "publisher": "Anindra",
     "repository": {
         "type": "git",
         "url": "https://github.com/meanindra/codeavenge-vscode/tree/master"
