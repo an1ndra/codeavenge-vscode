@@ -12,7 +12,7 @@ A vscode plugin with better dark mode
 # Install
 1. Install the icon theme from the [Marketplace](https://marketplace.visualstudio.com/items?itemName=Anindra.codeavenge) or open the command palette (`Ctrl/Cmd + Shift + P`) and enter this,
 ```shell
-ext install Anindra.codeavenge
+ext install Anindra.darknight
 ```
 2. Search for `Preferences: Color Theme` inside command palette
 3. Select `Dark Night` option
