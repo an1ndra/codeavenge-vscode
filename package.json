@@ -1,7 +1,7 @@
 {
-    "name": "dark-night",
-    "displayName": "Dark Night",
-    "description": "I universal Dark Night theme for VSCode dekstop, vscodium, github.dev, vscode.dev",
+    "name": "puredark",
+    "displayName": "Pure Dark",
+    "description": "I universal Pure Dark theme for VSCode dekstop, vscodium, github.dev, vscode.dev",
     "version": "0.6.0",
     "publisher": "Anindra",
     "repository": {
