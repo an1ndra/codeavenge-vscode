@@ -1,5 +1,13 @@
 A vscode plugin with better dark mode
 # Screenshots
+[Screenshot 1](https://raw.githubusercontent.com/meanindra/codeavenge-vscode/master/screenshots/screenshot1.png)
+![](https://raw.githubusercontent.com/meanindra/codeavenge-vscode/master/screenshots/screenshot1.png)
+
+[Screenshot 2](https://raw.githubusercontent.com/meanindra/codeavenge-vscode/master/screenshots/screenshot2.png)
+![](https://raw.githubusercontent.com/meanindra/codeavenge-vscode/master/screenshots/screenshot2.png)
+
+[Screenshot 3](https://raw.githubusercontent.com/meanindra/codeavenge-vscode/master/screenshots/screenshot3.png)
+![](https://raw.githubusercontent.com/meanindra/codeavenge-vscode/master/screenshots/screenshot3.png)
 
 # Install
 1. Install the icon theme from the [Marketplace](https://marketplace.visualstudio.com/items?itemName=Anindra.codeavenge) or open the command palette (`Ctrl/Cmd + Shift + P`) and enter this,
