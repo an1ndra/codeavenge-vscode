@@ -1,9 +1,9 @@
 {
-    "name": "codeavenge",
-    "displayName": "codeavenge",
-    "description": "Simple dark theme for linux user (pop os/ubuntu/mint etc)",
+    "name": "darknight",
+    "displayName": "Dark Night",
+    "description": "I universal Dark Night theme for VSCode dekstop, vscodium, github.dev, vscode.dev",
     "version": "0.1.0",
-    "publisher": "Anindra",
+    "publisher": "codeavenge",
     "repository": {
         "type": "git",
         "url": "https://github.com/meanindra/codeavenge-vscode/tree/master"
@@ -14,7 +14,12 @@
         "codeavenge",
         "vscode",
         "linux",
-        "pop os"
+        "pop os",
+        "Dark",
+        "Night",
+        "gitpod",
+        "vscodium",
+        "anindra"
     ],
     "engines": {
         "vscode": "^1.64.0"
