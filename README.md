@@ -15,7 +15,7 @@ A vscode plugin with better dark mode
 ext install Anindra.codeavenge
 ```
 2. Search for `Preferences: Color Theme` inside command palette
-3. Select `CodeAvenge` option
+3. Select `Dark Night` option
 4. Reload VScode
 
 # Issue/Bug
