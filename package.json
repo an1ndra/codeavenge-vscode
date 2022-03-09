@@ -24,7 +24,7 @@
     "engines": {
         "vscode": "^1.64.0"
     },
-    "icon": "icon.png",
+    "icon": "icon-vscode-pure-dark.png",
     "categories": [
         "Themes"
     ],
