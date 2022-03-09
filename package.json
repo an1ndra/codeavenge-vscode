@@ -34,6 +34,11 @@
                 "label": "Pure Dark",
                 "uiTheme": "vs-dark",
                 "path": "./themes/puredark-color-theme.json"
+            },
+            {
+                "label": "Gray Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/graydark-color-theme.json"
             }
         ]
     }
